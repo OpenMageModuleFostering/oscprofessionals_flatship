@@ -1,3 +1,5 @@
+
+
 ## Original Package Description
 
 Shipping Based On Category And Product Module allows Admin to add different shipping price for each simple product or category. This extension support all the simple product. On checkout page total shipping charges will display, by calculating shipping charges of each product.
